@@ -27,23 +27,6 @@ Some projects here will be polished. Others will be experiments. The goal is sim
 
 ---
 
-## 🚀 Current Projects
-
-### 🌦️ Weather Telegram Bot
-
-An automated weather reporting system that:
-
-- Fetches structured weather data from Open-Meteo
-- Generates weather reports in Persian
-- Sends reports directly to Telegram
-- Runs automatically through GitHub Actions
-- Uses GitHub Secrets to protect credentials
-- Runs independently without requiring my computer to be turned on
-
-More automation projects coming soon.
-
----
-
 ## 🛠️ Technologies
 
 ### Languages & Scripting
